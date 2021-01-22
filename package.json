@@ -15,7 +15,6 @@
     "bcryptjs": "^2.4.3",
     "graphql": "^15.4.0",
     "jsonwebtoken": "^8.5.1",
-    "jwt-decode": "^3.1.2",
     "mongoose": "^5.11.11"
   },
   "devDependencies": {
